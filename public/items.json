@@ -1,0 +1,137 @@
+[
+  {
+    "id": 1,
+    "title": "Vintage Mechanical Watch",
+    "description": "A classic mechanical wristwatch with a stainless steel case and leather strap.",
+    "currentBidPrice": 185,
+    "timeLeft": "2d 8h",
+    "bidsCount": 14,
+    "image": "https://images.unsplash.com/photo-1524805444758-089113d48a6d"
+  },
+  {
+    "id": 2,
+    "title": "Sony Alpha Camera",
+    "description": "A mirrorless camera suitable for photography, travel, and professional content creation.",
+    "currentBidPrice": 720,
+    "timeLeft": "1d 5h",
+    "bidsCount": 27,
+    "image": "https://images.unsplash.com/photo-1516035069371-29a1b244cc32"
+  },
+  {
+    "id": 3,
+    "title": "MacBook Pro 14",
+    "description": "A powerful laptop with a high-resolution display, ideal for programming and creative work.",
+    "currentBidPrice": 1150,
+    "timeLeft": "3d 12h",
+    "bidsCount": 35,
+    "image": "https://images.unsplash.com/photo-1517336714739-489689fd1ca8"
+  },
+  {
+    "id": 4,
+    "title": "Antique Wooden Chair",
+    "description": "A beautifully preserved wooden chair with traditional craftsmanship and vintage styling.",
+    "currentBidPrice": 95,
+    "timeLeft": "6h 40m",
+    "bidsCount": 9,
+    "image": "https://images.unsplash.com/photo-1503602642458-232111445657"
+  },
+  {
+    "id": 5,
+    "title": "Gaming PC Setup",
+    "description": "A high-performance gaming PC setup suitable for modern games and demanding applications.",
+    "currentBidPrice": 980,
+    "timeLeft": "4d 2h",
+    "bidsCount": 41,
+    "image": "https://images.unsplash.com/photo-1593640408182-31c70c8268f5"
+  },
+  {
+    "id": 6,
+    "title": "Electric Guitar",
+    "description": "A stylish electric guitar with a smooth finish and excellent tone for beginners and performers.",
+    "currentBidPrice": 340,
+    "timeLeft": "1d 18h",
+    "bidsCount": 18,
+    "image": "https://images.unsplash.com/photo-1525201548942-d8732f6617a0"
+  },
+  {
+    "id": 7,
+    "title": "Classic Road Bicycle",
+    "description": "A lightweight road bicycle designed for comfortable city rides and long-distance cycling.",
+    "currentBidPrice": 450,
+    "timeLeft": "2d 14h",
+    "bidsCount": 22,
+    "image": "https://images.unsplash.com/photo-1485965120184-e220f721d03e"
+  },
+  {
+    "id": 8,
+    "title": "Limited Edition Sneakers",
+    "description": "A collectible pair of limited edition sneakers featuring a unique design and premium materials.",
+    "currentBidPrice": 210,
+    "timeLeft": "12h 25m",
+    "bidsCount": 31,
+    "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff"
+  },
+  {
+    "id": 9,
+    "title": "Vintage Film Camera",
+    "description": "A classic film camera in good condition, perfect for photography enthusiasts and collectors.",
+    "currentBidPrice": 275,
+    "timeLeft": "5d 3h",
+    "bidsCount": 16,
+    "image": "https://images.unsplash.com/photo-1452780212940-6f5c0d14d848"
+  },
+  {
+    "id": 10,
+    "title": "Smart LED Television",
+    "description": "A modern smart television with a large display and built-in streaming applications.",
+    "currentBidPrice": 620,
+    "timeLeft": "2d 20h",
+    "bidsCount": 24,
+    "image": "https://images.unsplash.com/photo-1593359677879-a4bb92f829d1"
+  },
+  {
+    "id": 11,
+    "title": "Designer Leather Bag",
+    "description": "A premium leather bag with a spacious interior and elegant design for everyday use.",
+    "currentBidPrice": 165,
+    "timeLeft": "8h 15m",
+    "bidsCount": 12,
+    "image": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62"
+  },
+  {
+    "id": 12,
+    "title": "Wireless Headphones",
+    "description": "Premium wireless headphones featuring active noise cancellation and long battery life.",
+    "currentBidPrice": 145,
+    "timeLeft": "3d 7h",
+    "bidsCount": 29,
+    "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e"
+  },
+  {
+    "id": 13,
+    "title": "Mountain Camping Tent",
+    "description": "A durable four-person camping tent designed for outdoor adventures and weekend trips.",
+    "currentBidPrice": 130,
+    "timeLeft": "1d 11h",
+    "bidsCount": 8,
+    "image": "https://images.unsplash.com/photo-1504280390367-361c6d9f38f4"
+  },
+  {
+    "id": 14,
+    "title": "Professional Drone",
+    "description": "A compact camera drone with intelligent flight modes and high-quality aerial photography capabilities.",
+    "currentBidPrice": 560,
+    "timeLeft": "4d 9h",
+    "bidsCount": 37,
+    "image": "https://images.unsplash.com/photo-1473968512647-3e447244af8f"
+  },
+  {
+    "id": 15,
+    "title": "Classic Vinyl Record Player",
+    "description": "A stylish turntable designed for vinyl enthusiasts with a warm and authentic listening experience.",
+    "currentBidPrice": 190,
+    "timeLeft": "18h 50m",
+    "bidsCount": 15,
+    "image": "https://images.unsplash.com/photo-1461360228754-6e81c478b882"
+  }
+]
